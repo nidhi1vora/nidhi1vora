@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
+
 - 🔭 I’m currently working on **finance educator app**
 
 - 🌱 I’m currently learning **Stanford's Machine Learning Specialization Course**
