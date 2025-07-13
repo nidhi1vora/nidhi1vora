@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
-<h3 align="center">A sophomore at UW interested in math, finance, and code—curiously testing the waters to find where I make the biggest impact.</h3>
-
 - 🔭 I’m currently working on **finance educator app**
 
 - 🌱 I’m currently learning **Stanford's Machine Learning Specialization Course**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nidhi-vora-3039812a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nidhi-vora-3039812a8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nidhi-vora-3039812a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhi-vora-3039812a8/" height="30" width="40" /></a>
 <a href="https://instagram.com/_nidhi.vora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nidhi.vora" height="30" width="40" /></a>
 </p>
 
