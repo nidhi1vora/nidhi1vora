@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Nidhi</h1>
+# Nidhi Vora
 
-- 🔭 I’m currently working on **finance educator app**
+Computational Finance & Risk Management (Data Science track) and Statistics — University of Washington, Seattle
 
-- 🌱 I’m currently learning **Stanford's Machine Learning Specialization Course**
+Seeking Summer 2027 quantitative trading / quantitative research internships.
 
-- 👯 I’m looking to collaborate on **projects that combine math, data science, and real-world impact - especially in fintech or algorithmic trading.**
+I build tools across derivatives pricing, market microstructure, and risk management — stochastic volatility models, vectorized Monte Carlo engines, and market simulation.
 
-- 📫 How to reach me **nidhi1vora@gmail.com**
+## Featured Projects
 
-- ⚡ Fun fact **I know 5 languages**
+**[poker-equity-calculator](https://github.com/nidhi1vora/poker-equity-calculator)** — Texas Hold'em equity calculator with a fully vectorized NumPy Monte Carlo engine: rank-counting hand evaluator (no lookup table), range parser, exact-enumeration validation, convergence analysis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nidhivora1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhivora1" height="30" width="40" /></a>
-<a href="https://instagram.com/_nidhi.vora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nidhi.vora" height="30" width="40" /></a>
-</p>
+**[options-pricing-heston](https://github.com/nidhi1vora/options-pricing-heston)** — Options pricing under the Heston stochastic volatility model
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**[vol-surface-svi-heston](https://github.com/nidhi1vora/vol-surface-svi-heston)** — Implied volatility surface construction via SVI parameterization and Heston calibration
+
+**[lob-market-making-simulator](https://github.com/nidhi1vora/lob-market-making-simulator)** — Limit order book market-making simulator
+
+**[factor-risk-pipeline](https://github.com/nidhi1vora/factor-risk-pipeline)** — Factor-based risk model pipeline
+
+**[iv-rv-vol-spread-strategy](https://github.com/nidhi1vora/iv-rv-vol-spread-strategy)** — Implied vs. realized volatility spread trading strategy
+
+**[realtime-risk-dashboard](https://github.com/nidhi1vora/realtime-risk-dashboard)** — Real-time portfolio risk monitoring dashboard
+
+## Skills
+
+`Python` `NumPy` `pandas` `Java` `MATLAB`
+
+## Contact
+
+[Email](mailto:nidhi1vora@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nidhivora1/)
